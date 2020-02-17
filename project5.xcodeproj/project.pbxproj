@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FD6FA78023F629FF00870DAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD6FA77F23F629FF00870DAE /* Assets.xcassets */; };
+		FD79F46B23FB01ED0022D9A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD79F46A23FB01ED0022D9A1 /* Assets.xcassets */; };
 		FDC1149223F07AF7002A7708 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC1149123F07AF7002A7708 /* AppDelegate.swift */; };
 		FDC1149423F07AF7002A7708 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC1149323F07AF7002A7708 /* ViewController.swift */; };
 		FDC1149723F07AF7002A7708 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDC1149523F07AF7002A7708 /* Main.storyboard */; };
@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FD6FA77F23F629FF00870DAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../Downloads/AppIcons/Assets.xcassets; sourceTree = "<group>"; };
+		FD79F46A23FB01ED0022D9A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../Downloads/AppIcons/Assets.xcassets; sourceTree = "<group>"; };
 		FDC1148E23F07AF7002A7708 /* project5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDC1149123F07AF7002A7708 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDC1149323F07AF7002A7708 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,9 +74,9 @@
 				FDF9067A23F08693000C2B12 /* Data.plist */,
 				FDF9067C23F086F6000C2B12 /* Place.swift */,
 				FDF9068223F097DB000C2B12 /* PlaceMarkerView.swift */,
-				FD6FA77F23F629FF00870DAE /* Assets.xcassets */,
 				FDF157C623F335650053332B /* DataManager.swift */,
 				FDF157C823F34AF20053332B /* FavoritesViewController.swift */,
+				FD79F46A23FB01ED0022D9A1 /* Assets.xcassets */,
 				FDF157CC23F35A140053332B /* PlacesFavoritesDelegate.swift */,
 			);
 			path = project5;
@@ -143,7 +143,7 @@
 			files = (
 				FDC1149C23F07AF8002A7708 /* LaunchScreen.storyboard in Resources */,
 				FDF9067B23F08693000C2B12 /* Data.plist in Resources */,
-				FD6FA78023F629FF00870DAE /* Assets.xcassets in Resources */,
+				FD79F46B23FB01ED0022D9A1 /* Assets.xcassets in Resources */,
 				FDC1149723F07AF7002A7708 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
