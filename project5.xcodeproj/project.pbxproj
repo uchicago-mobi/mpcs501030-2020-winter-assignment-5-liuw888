@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FD17D64523FB13AA0002FAE3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD17D64423FB13AA0002FAE3 /* Images.xcassets */; };
 		FDC1149223F07AF7002A7708 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC1149123F07AF7002A7708 /* AppDelegate.swift */; };
 		FDC1149423F07AF7002A7708 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC1149323F07AF7002A7708 /* ViewController.swift */; };
 		FDC1149723F07AF7002A7708 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDC1149523F07AF7002A7708 /* Main.storyboard */; };
 		FDC1149C23F07AF8002A7708 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDC1149A23F07AF8002A7708 /* LaunchScreen.storyboard */; };
+		FDD754F623FB1634009672DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDD754F523FB1634009672DE /* Assets.xcassets */; };
 		FDF157C723F335650053332B /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDF157C623F335650053332B /* DataManager.swift */; };
 		FDF157C923F34AF20053332B /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDF157C823F34AF20053332B /* FavoritesViewController.swift */; };
 		FDF157CD23F35A140053332B /* PlacesFavoritesDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDF157CC23F35A140053332B /* PlacesFavoritesDelegate.swift */; };
@@ -21,13 +21,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FD17D64423FB13AA0002FAE3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		FDC1148E23F07AF7002A7708 /* project5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDC1149123F07AF7002A7708 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDC1149323F07AF7002A7708 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FDC1149623F07AF7002A7708 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FDC1149B23F07AF8002A7708 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDC1149D23F07AF8002A7708 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDD754F523FB1634009672DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDF157C623F335650053332B /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		FDF157C823F34AF20053332B /* FavoritesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
 		FDF157CC23F35A140053332B /* PlacesFavoritesDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesFavoritesDelegate.swift; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 				FDF157C623F335650053332B /* DataManager.swift */,
 				FDF157C823F34AF20053332B /* FavoritesViewController.swift */,
 				FDF157CC23F35A140053332B /* PlacesFavoritesDelegate.swift */,
-				FD17D64423FB13AA0002FAE3 /* Images.xcassets */,
+				FDD754F523FB1634009672DE /* Assets.xcassets */,
 			);
 			path = project5;
 			sourceTree = "<group>";
@@ -142,9 +142,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FDC1149C23F07AF8002A7708 /* LaunchScreen.storyboard in Resources */,
-				FD17D64523FB13AA0002FAE3 /* Images.xcassets in Resources */,
 				FDF9067B23F08693000C2B12 /* Data.plist in Resources */,
 				FDC1149723F07AF7002A7708 /* Main.storyboard in Resources */,
+				FDD754F623FB1634009672DE /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
